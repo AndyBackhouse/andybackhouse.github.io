@@ -2,7 +2,7 @@
 layout: post
 title: "Natural Radio"
 date: 2016-08-07
-excerpt: "Something from the old Blog - I do not knwo if it has a place up here, but hey."
+excerpt: "Something from the old Blog - I do not know if it has a place up here, but hey."
 tags: [radio, Old Blog, Regurgitation]
 comments: true
 ---
