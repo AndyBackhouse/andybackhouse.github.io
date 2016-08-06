@@ -10,7 +10,7 @@ tag:
 - Street Photography
 - blog
 - Black & White
-comments: true
+comments: false
 ---
 
 I was invited back in late 2015 to play a Sound Art festival called Plunge, in Folkestone Kent. I believe it was in October of that year. My set went well and I have a recording of it somewhere, but, what stuck with me was the way the light was different down on the South Coast as it is up here in Yorkshire.
