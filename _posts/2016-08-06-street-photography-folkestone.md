@@ -4,6 +4,7 @@ title:  "Street Photography, Folkestone"
 date:   2016-08-06
 excerpt: "Street photography in Folkestone, Kent."
 project: true
+feature: http://andybackhouse.github.io/assets/img/DSC00225.jpg
 tag:
 - Folkestone 
 - Street Photography
