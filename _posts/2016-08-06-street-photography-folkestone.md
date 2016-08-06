@@ -18,8 +18,7 @@ Armed with this new outlook I carried a SONY QX10 around with me firing from the
 
 
 
-{% highlight liquid %}
-{% raw %}
+
 {% capture images %}
 http://andybackhouse.github.io/assets/img/DSC00225.jpg
 http://andybackhouse.github.io/assets/img/DSC00242.jpg
@@ -31,5 +30,4 @@ http://andybackhouse.github.io/assets/img/DSC00422.jpg
 http://andybackhouse.github.io/assets/img/DSC00423.jpg
 {% endcapture %}
 {% include gallery images=images caption="Folkestone 2015" cols=2 %}
-{% endraw %}
-{% endhighlight %}
+
