@@ -17,17 +17,14 @@ I was invited back in late 2015 to play a Sound Art festival called Plunge, in F
 Armed with this new outlook I carried a SONY QX10 around with me firing from the hip. Here are some of the images.
 
 
-
-
-{% capture images %}
-http://andybackhouse.github.io/assets/img/DSC00225.jpg
-http://andybackhouse.github.io/assets/img/DSC00242.jpg
-http://andybackhouse.github.io/assets/img/DSC00254.jpg
-http://andybackhouse.github.io/assets/img/DSC00273.jpg
-http://andybackhouse.github.io/assets/img/DSC00337.jpg
-http://andybackhouse.github.io/assets/img/DSC00376.jpg
-http://andybackhouse.github.io/assets/img/DSC00422.jpg
-http://andybackhouse.github.io/assets/img/DSC00423.jpg
-{% endcapture %}
-{% include gallery images=images caption="Folkestone 2015" cols=2 %}
+<figure class="half">
+<a href="http://andybackhouse.github.io/assets/img/DSC00225.jpg"><img src="http://andybackhouse.github.io/assets/img/DSC00225.jpg"></a>
+<a href="http://andybackhouse.github.io/assets/img/DSC00242.jpg"><img src="http://andybackhouse.github.io/assets/img/DSC00242.jpg"></a>
+<a href="http://andybackhouse.github.io/assets/img/DSC00254.jpg"><img src="http://andybackhouse.github.io/assets/img/DSC00254.jpg"></a>
+<a href="http://andybackhouse.github.io/assets/img/DSC00273.jpg"><img src="http://andybackhouse.github.io/assets/img/DSC00273.jpg"></a>
+<a href="http://andybackhouse.github.io/assets/img/DSC00337.jpg"><img src="http://andybackhouse.github.io/assets/img/DSC00337.jpg"></a>
+<a href="http://andybackhouse.github.io/assets/img/DSC00376.jpg"><img src="http://andybackhouse.github.io/assets/img/DSC00376.jpg"></a>
+<a href="http://andybackhouse.github.io/assets/img/DSC00422.jpg"><img src="http://andybackhouse.github.io/assets/img/DSC00422.jpg"></a>
+<a href="http://andybackhouse.github.io/assets/img/DSC00423.jpg"><img src="http://andybackhouse.github.io/assets/img/DSC00423.jpg"></a>
+</figure>
 
