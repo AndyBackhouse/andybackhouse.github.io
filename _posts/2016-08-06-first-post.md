@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "First Post"
-date: 2016-08-06
+date: 2016-08-05
 excerpt: "Bit tired - but I thought I'd give this a whirl.."
 tags: [sample post, readability, test]
 comments: true
